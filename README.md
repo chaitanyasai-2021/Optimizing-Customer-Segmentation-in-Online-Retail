@@ -153,10 +153,6 @@ From the graph, I chose **3 clusters**.
 
 ---  
 
-Let me know if you need further edits! 😊  
-
----  
-
 ## 🚀 Future Work  
 
 - **Expand Analysis**: Include new customer features, like demographics and lifetime value.  
